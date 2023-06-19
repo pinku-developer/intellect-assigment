@@ -57,6 +57,7 @@ Screens
     2. Pyramid Slider View
     packages: No extra packages required
 
-Route: react-route-dom is used to implement the route in the project. 
+Route: react-route-dom is used to implement the route in the project.
+
 Sass: we are using scss to style the component
 
